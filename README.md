@@ -13,7 +13,7 @@ CPS188 introduces students to the fundamentals of computer programming with an e
 
 The course emphasizes clean, well-documented code, algorithmic efficiency, and real-world engineering problem modeling through hands-on labs and a term project.
 
-### Topics Covered:
+## Topics Covered:
 - Algorithm development and flow control  
 - Functions, pointers, arrays, and matrices  
 - String manipulation and recursion  
